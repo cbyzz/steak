@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827448888283",
+    "project_id": "nbt-steak",
+    "storage_bucket": "nbt-steak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827448888283:android:13855d7791c57ea21875fe",
+        "android_client_info": {
+          "package_name": "nbt.pathbreaker.steak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827448888283-s7qp0fro8m16hqhv0u83cifgsdmm5t1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIBUKh3x7612cd2oPSy7_c43FeIBvBEZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827448888283-s7qp0fro8m16hqhv0u83cifgsdmm5t1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
