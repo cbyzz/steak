@@ -1,0 +1,4 @@
+#Mon Feb 15 18:31:51 KST 2021
+base.0=/Users/choibyoungyoul/AndroidStudioProjects/steak/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
